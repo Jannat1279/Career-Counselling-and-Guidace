@@ -1,0 +1,33 @@
+
+{
+  "science": {
+    "title": "Science Stream Resources",
+    "resources": [
+      
+      { "name": "NCERT Textbooks (Science Stream)", "url": "https://ncert.nic.in/textbook.php" },
+      { "name": "Byju's Science - Details & Courses", "url": "https://byjus.com/class-11-12/" },
+      { "name": "Vedantu Science - Details & Courses", "url": "https://www.vedantu.com/courses" },
+      { "name": "Khan Academy - Science Stream - Resources ", "url": "https://www.khanacademy.org/" }
+    ]
+  },
+
+  "commerce": {
+    "title": "Commerce Stream Resources",
+    "resources": [
+      { "name": "NCERT Textbooks (Commerce)", "url": "https://ncert.nic.in/textbook.php" },
+      { "name": "Byju's Commerce - Details & Courses", "url": "https://byjus.com/commerce/" },
+      { "name": "Vedantu Commerce - Details & Courses", "url": "https://www.vedantu.com/courses" },
+      { "name": "Khan Academy - Commerce Stream - Resources ", "url": "https://www.khanacademy.org/" }
+    ]
+  },
+
+  "arts": {
+    "title": "Arts / Humanities Resources",
+    "resources": [
+       { "name": "NCERT Textbooks (Arts)", "url": "https://ncert.nic.in/textbook.php" },
+      { "name": "Byju's Arts - Details & Courses", "url": "https://byjus.com/history/" },
+      { "name": "Vedantu Arts - Details & Courses", "url": "https://www.vedantu.com/courses" },
+      { "name": "Khan Academy - Arts Stream - Resources ", "url": "https://www.khanacademy.org/" }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Logical Reasoning": [
+    { "question": "What comes next in the series: 2, 4, 6, 8, ?", "options": ["9","10","12","11"], "correct": "10" },
+    { "question": "If all bloops are razzies and all razzies are lazzies, are all bloops definitely lazzies?", "options": ["Yes","No"], "correct": "Yes" },
+    { "question": "Find the odd one out: Apple, Banana, Carrot, Mango", "options": ["Apple","Banana","Carrot","Mango"], "correct": "Carrot" },
+    { "question": "If John is taller than Mike and Mike is taller than Sarah, who is shortest?", "options": ["John","Mike","Sarah"], "correct": "Sarah" },
+    { "question": "Which figure comes next in the pattern?", "options": ["A","B","C","D"], "correct": "A" }
+  ],
+  "Numerical Ability": [
+    { "question": "What is 15% of 200?", "options": ["25","30","35","40"], "correct": "30" },
+    { "question": "Solve: 8 + 6 / 2", "options": ["11","10","8","7"], "correct": "11" },
+    { "question": "Which number is divisible by 9?", "options": ["81","72","90","All"], "correct": "All" },
+    { "question": "What is the square root of 144?", "options": ["11","12","13","14"], "correct": "12" },
+    { "question": "Profit percent for Rs. 500 profit on Rs. 5000?", "options": ["5%","10%","15%","20%"], "correct": "10%" }
+  ],
+  "Verbal Ability": [
+    { "question": "Choose the correct spelling:", "options": ["Accomodate","Acommodate","Accommodate","Acomodate"], "correct": "Accommodate" },
+    { "question": "Synonym of 'Abundant':", "options": ["Scarce","Plentiful","Rare","Empty"], "correct": "Plentiful" },
+    { "question": "Antonym of 'Bright':", "options": ["Shiny","Dull","Glowing","Light"], "correct": "Dull" },
+    { "question": "Grammatically correct sentence:", "options": ["He go to school.","He goes to school.","He gone to school.","He going school."], "correct": "He goes to school." },
+    { "question": "Fill in the blank: She __ playing tennis.", "options": ["is","are","was","were"], "correct": "is" }
+  ],
+  "Mechanical Aptitude": [
+    { "question": "If a small gear turns to the right and is connected directly to a bigger gear, which way does the bigger gear turn?", "options": ["To the right","To the left","It doesn't move","It moves up"], "correct": "To the left" },
+    { "question": "On a seesaw, a 40 kg child sits on one end. Where should a 20 kg child sit to balance it?", "options": ["Closer to the center","At the same distance as the other child","Farther from the center","Balance is not possible"], "correct": "Farther from the center" },
+    { "question": "What is the use of a pulley?", "options": ["To increase weight","To make lifting things easier","To make objects heavier","To slow down machines"], "correct": "To make lifting things easier" },
+    { "question": "Why do we use a ramp to move heavy things up?", "options": ["It looks better","It makes the object heavier","It takes less effort","It moves faster"], "correct": "It takes less effort" },
+    { "question": "A screw helps us to:", "options": ["Hold things together tightly","Break things easily","Pull heavy objects","Turn on machines"], "correct": "Hold things together tightly" }
+  ],
+  "Interest Inventory": [
+    { "question": "Interest in working with computers", "options": ["1","2","3","4","5"] },
+    { "question": "Interest in solving math problems", "options": ["1","2","3","4","5"] },
+    { "question": "Interest in caring for animals", "options": ["1","2","3","4","5"] },
+    { "question": "Interest in designing buildings", "options": ["1","2","3","4","5"] },
+    { "question": "Interest in writing stories", "options": ["1","2","3","4","5"] }
+  ],
+  "Personality Traits": [
+    { "question": "I often take the lead in group activities.", "options": ["1","2","3","4","5"] },
+    { "question": "I enjoy creating new things.", "options": ["1","2","3","4","5"] },
+    { "question": "I like taking calculated risks.", "options": ["1","2","3","4","5"] },
+    { "question": "I am a very disciplined person.", "options": ["1","2","3","4","5"] },
+    { "question": "I work well in teams.", "options": ["1","2","3","4","5"] }
+  ],
+  "Emotional Quotient": [
+    { "question": "I can manage stress well in difficult situations.", "options": ["1","2","3","4","5"] },
+    { "question": "I am aware of my own emotions.", "options": ["1","2","3","4","5"] },
+    { "question": "I understand how others feel.", "options": ["1","2","3","4","5"] },
+    { "question": "I make decisions calmly under pressure.", "options": ["1","2","3","4","5"] },
+    { "question": "I resolve conflicts peacefully.", "options": ["1","2","3","4","5"] }
+  ],
+  "Skills & Hobbies": [
+    { "question": "I am confident in public speaking.", "options": ["Yes","No"] },
+    { "question": "I regularly engage in drawing or painting.", "options": ["Yes","No"] },
+    { "question": "I can code in a programming language.", "options": ["Yes","No"] },
+    { "question": "I enjoy creative writing or blogging.", "options": ["Yes","No"] },
+    { "question": "I actively participate in sports.", "options": ["Yes","No"] }
+  ]
+}
