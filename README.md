@@ -19,7 +19,7 @@ A web-based system that helps students discover suitable career options based on
 | Part        | Technology Used       |
 |-------------|------------------------|
 | Frontend    | React  |
-| Backend     | springboot  / Python (Flask)   | AI/ML
+| Backend     | Springboot  / Python (Flask)   | AI/ML
 | Database    | MySQL                  |
 | Server      | Localhost      |
 
@@ -70,8 +70,3 @@ cd server ->
 for 10th quiz : cd 10th -> server.py
 for 12th quiz: cd 12th -> app.py
 
-- **Pooja Kumari**
-- GitHub: [poojakumarigithub](https://github.com/poojakumarigithub)
-
-
----
